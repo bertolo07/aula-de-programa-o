@@ -35,28 +35,3 @@ class Planet:
 		self.x_vel = 0
 		self.y_vel = 0
 		 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
